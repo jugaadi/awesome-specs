@@ -11,7 +11,7 @@
 
 ## Authentication
 
-[LDAP](https://ldap.com/)
+[LDAP](https://ldap.com/)  
 [OAuth](https://oauth.net/)  
 [OpenID](https://openid.net/)  
 [SAML](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)  
@@ -21,7 +21,7 @@
 [Avro](http://avro.apache.org)  
 [BSON](http://bsonspec.org/)  
 [Cap'n Proto](https://capnproto.org/)  
-[CSV](https://tools.ietf.org/html/rfc4180)
+[CSV](https://tools.ietf.org/html/rfc4180)  
 [FlatBuffers](https://google.github.io/flatbuffers/)  
 [Ion](http://amzn.github.io/ion-docs/)  
 [JSON](https://www.json.org/)  
@@ -42,8 +42,8 @@
 [Avro](http://avro.apache.org)  
 [Cap'n Proto](https://capnproto.org/)  
 [gRPC](https://grpc.io/)  
-[JSONRPC](http://www.jsonrpc.org/)
-[Thrift](https://thrift.apache.org/)
+[JSONRPC](http://www.jsonrpc.org/)  
+[Thrift](https://thrift.apache.org/)  
 [Twirp](https://github.com/twitchtv/twirp)  
 
 ## API Description
